@@ -7,6 +7,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
@@ -19,10 +20,12 @@ Leetcode daily solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
