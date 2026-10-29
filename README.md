@@ -16,6 +16,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,12 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
