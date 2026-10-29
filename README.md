@@ -9,6 +9,7 @@ Leetcode daily solutions
 | [0001-two-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0055-jump-game) |
+| [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
@@ -42,5 +43,18 @@ Leetcode daily solutions
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
