@@ -72,4 +72,8 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
