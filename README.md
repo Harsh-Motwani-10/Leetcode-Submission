@@ -78,8 +78,13 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
