@@ -42,6 +42,7 @@ Leetcode daily solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -79,6 +80,7 @@ Leetcode daily solutions
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,4 +89,9 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
