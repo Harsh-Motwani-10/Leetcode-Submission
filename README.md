@@ -29,6 +29,7 @@ Leetcode daily solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -46,6 +47,7 @@ Leetcode daily solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ Leetcode daily solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 ## Quicksort
 |  |
 | ------- |
