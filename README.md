@@ -50,6 +50,7 @@ Leetcode daily solutions
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Leetcode daily solutions
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
