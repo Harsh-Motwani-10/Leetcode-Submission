@@ -14,6 +14,7 @@ Leetcode daily solutions
 | [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
