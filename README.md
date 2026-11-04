@@ -73,6 +73,7 @@ Leetcode daily solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -88,6 +89,7 @@ Leetcode daily solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
@@ -102,6 +104,7 @@ Leetcode daily solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
