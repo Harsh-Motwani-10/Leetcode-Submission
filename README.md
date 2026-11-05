@@ -23,6 +23,7 @@ Leetcode daily solutions
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Leetcode daily solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0876-middle-of-the-linked-list) |
@@ -98,6 +100,7 @@ Leetcode daily solutions
 | [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
@@ -123,4 +126,5 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
