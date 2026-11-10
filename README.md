@@ -15,6 +15,7 @@ Leetcode daily solutions
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Leetcode daily solutions
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
