@@ -13,6 +13,7 @@ Leetcode daily solutions
 | [0056-merge-intervals](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
@@ -25,6 +26,7 @@ Leetcode daily solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
+| [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Leetcode daily solutions
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
@@ -163,4 +166,12 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
