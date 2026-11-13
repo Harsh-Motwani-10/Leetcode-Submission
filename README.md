@@ -58,6 +58,7 @@ Leetcode daily solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
@@ -111,6 +112,7 @@ Leetcode daily solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
