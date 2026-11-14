@@ -17,6 +17,7 @@ Leetcode daily solutions
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -53,6 +54,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,4 +179,8 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
