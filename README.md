@@ -16,6 +16,7 @@ Leetcode daily solutions
 | [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
@@ -42,6 +43,7 @@ Leetcode daily solutions
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -96,6 +99,7 @@ Leetcode daily solutions
 | [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
