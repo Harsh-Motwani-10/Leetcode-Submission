@@ -107,6 +107,7 @@ Leetcode daily solutions
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0392-is-subsequence](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0392-is-subsequence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -187,4 +188,8 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
