@@ -11,6 +11,7 @@ Leetcode daily solutions
 | [0045-jump-game-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
@@ -149,6 +150,7 @@ Leetcode daily solutions
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -192,4 +194,12 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
