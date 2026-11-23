@@ -13,6 +13,7 @@ Leetcode daily solutions
 | [0056-merge-intervals](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0164-maximum-gap](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0705-design-hashset](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0705-design-hashset) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0922-sort-array-by-parity-ii) |
@@ -100,6 +101,7 @@ Leetcode daily solutions
 | [0002-add-two-numbers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -202,4 +204,24 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
