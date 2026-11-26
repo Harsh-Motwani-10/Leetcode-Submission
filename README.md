@@ -103,6 +103,7 @@ Leetcode daily solutions
 | [0070-climbing-stairs](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -198,6 +199,7 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/3360-stone-removal-game) |
 ## Monotonic Stack
 |  |
 | ------- |
