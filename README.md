@@ -235,4 +235,8 @@ Leetcode daily solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Harsh-Motwani-10/Leetcode-Submission/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
